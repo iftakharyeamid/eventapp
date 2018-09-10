@@ -1,0 +1,48 @@
+.bg-light {
+    background-color: #3d66a5!important;
+
+}
+.navbar-light .navbar-brand {
+    color:#fff !important;
+}
+.navbar-light .navbar-nav li a{
+        color:#fff !important;
+        font-size: 1.2rem;
+
+
+}
+.navbar {
+    padding: 1.1rem 3rem !important;
+}
+.navbar-brand {
+
+    font-size: 1.80rem;
+    font-weight: bold;
+
+}
+.card-body {
+    color: rgb(255, 255, 255);
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card-body1 {
+    color: #000000;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card {
+    background-color: rgb(43, 90, 175);
+}
+.card1 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
